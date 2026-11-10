@@ -80,7 +80,7 @@ wasm-timer = "0.2.5"
 futures-intrusive = "0.5"
 pollster = "0.3"
 text_placeholder = { version = "0.5.0", features = ["struct_context"] }
-wgpu = "0.18.0"
+wgpu = "30.0.1"
 
 #
 # The following packages disable the "std" feature for no_std compatibility
